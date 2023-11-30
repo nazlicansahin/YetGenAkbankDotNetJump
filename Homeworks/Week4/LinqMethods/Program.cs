@@ -1,5 +1,6 @@
 ﻿#region Concat
 using LinqMethods.Entities;
+using System.Collections.Generic;
 
 Pet pet1 = new Pet("Buddy", "Dog", 5);
 Pet pet2 = new Pet("Whiskers", "Cat", 3);
@@ -22,5 +23,21 @@ foreach (string p in query)
 	Console.WriteLine(p);
 }
 //IEnumerable<string> türü, koleksiyon üzerinde LINQ sorguları çalıştırmak veya döngü işlemleri yapmak gibi çeşitli koleksiyon işlemleri için kullanılabilir.
+
+#endregion
+
+#region Distinct
+
+//Returns distinct elements from a sequence.
+
+Person person1 = new Person(1, "Alice");
+Person person2 = new Person(2, "Bob");
+Person person3 = new Person(1, "Alice"); // Similar to person1
+
+ List<Person> people = new List<Person> { person1, person2, person3 };
+
+IEnumerable <int> distinctPerson = people.Count.Distinct(); 
+
+
 
 #endregion
