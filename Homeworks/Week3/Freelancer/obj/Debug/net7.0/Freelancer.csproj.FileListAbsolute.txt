@@ -1,0 +1,14 @@
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\bin\Debug\net7.0\Freelancer.exe
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\bin\Debug\net7.0\Freelancer.deps.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\bin\Debug\net7.0\Freelancer.runtimeconfig.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\bin\Debug\net7.0\Freelancer.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\bin\Debug\net7.0\Freelancer.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.AssemblyInfoInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.AssemblyInfo.cs
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\refint\Freelancer.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\Freelancer.genruntimeconfig.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\obj\Debug\net7.0\ref\Freelancer.dll
