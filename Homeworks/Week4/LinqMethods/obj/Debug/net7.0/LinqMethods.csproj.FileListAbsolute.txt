@@ -1,0 +1,14 @@
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\bin\Debug\net7.0\LinqMethods.exe
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\bin\Debug\net7.0\LinqMethods.deps.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\bin\Debug\net7.0\LinqMethods.runtimeconfig.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\bin\Debug\net7.0\LinqMethods.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\bin\Debug\net7.0\LinqMethods.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.AssemblyInfoInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.AssemblyInfo.cs
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\refint\LinqMethods.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\LinqMethods.genruntimeconfig.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week4\LinqMethods\obj\Debug\net7.0\ref\LinqMethods.dll

@@ -5,7 +5,11 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3", "Week3", "{A411BD6B-E177-46BD-B990-F7BFC5D00975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freelancer", "Week3\Freelancer\Freelancer.csproj", "{7293508E-4E45-4F9F-B06B-7B5B8A49D03A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Freelancer", "Week3\Freelancer\Freelancer.csproj", "{7293508E-4E45-4F9F-B06B-7B5B8A49D03A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week4", "Week4", "{BF33913B-209A-4B2D-9F97-FD5C2846D473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqMethods", "Week4\LinqMethods\LinqMethods.csproj", "{9B16A90E-2C66-4959-81FB-B8E090CF214A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{7293508E-4E45-4F9F-B06B-7B5B8A49D03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7293508E-4E45-4F9F-B06B-7B5B8A49D03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7293508E-4E45-4F9F-B06B-7B5B8A49D03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B16A90E-2C66-4959-81FB-B8E090CF214A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B16A90E-2C66-4959-81FB-B8E090CF214A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B16A90E-2C66-4959-81FB-B8E090CF214A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B16A90E-2C66-4959-81FB-B8E090CF214A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7293508E-4E45-4F9F-B06B-7B5B8A49D03A} = {A411BD6B-E177-46BD-B990-F7BFC5D00975}
+		{9B16A90E-2C66-4959-81FB-B8E090CF214A} = {BF33913B-209A-4B2D-9F97-FD5C2846D473}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88DA4F05-064B-4378-8414-8D7C8567AA00}
