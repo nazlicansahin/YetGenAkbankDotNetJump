@@ -129,7 +129,23 @@ foreach (var customer in customers)
 #endregion
 
 #region Average
+//Computes the average of a sequence of numeric values.
+
+double average = grades.Average();
+
+Console.WriteLine("The average grade is {0}.", average);
+
 #endregion
 
 #region Select
+
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+
+IEnumerable<int> multipliedNumbers = numbers.Select(x => x * 2);
+
+foreach (var number in multipliedNumbers)
+{
+	Console.WriteLine(number);
+}
+
 #endregion
