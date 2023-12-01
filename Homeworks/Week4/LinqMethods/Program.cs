@@ -32,12 +32,104 @@ foreach (string p in query)
 
 Person person1 = new Person(1, "Alice");
 Person person2 = new Person(2, "Bob");
-Person person3 = new Person(1, "Alice"); // Similar to person1
+Person person3 = new Person(1, "Ali"); // Similar to person1
 
  List<Person> people = new List<Person> { person1, person2, person3 };
 
-IEnumerable <int> distinctPerson = people.Count.Distinct(); 
+Console.WriteLine("person1 and person2 " + person1.Equals(person2));
+
+Console.WriteLine("person1 and person3 " + person1.Equals(person3));
+
+Console.WriteLine("person3 and person2 " + person3.Equals(person2));
+
+IEnumerable<Person> distinctPeople = people.Distinct(); //compare according to id
+foreach (Person person in distinctPeople)
+{
+	Console.WriteLine($"ID: {person.ID} Name: {person.Name}");
+}
+
+#endregion
+
+#region Skip
+
+int[] grades = { 59, 82, 70, 56, 92, 98, 85 };
+
+Console.WriteLine("All grades except the first three:");
+foreach (int grade in grades.Skip(3))
+{
+	Console.WriteLine(grade);
+}
+//Bypasses a specified number of elements in a sequence and then returns the remaining elements.
+#endregion
+
+#region Take
+
+//Returns a specified number of contiguous elements from the start of a sequence.
+IEnumerable<int> topThreeGrades =
+	grades.OrderByDescending(grade => grade).Take(3);
+
+Console.WriteLine("The top three grades are:");
+foreach (int grade in topThreeGrades)
+{
+	Console.WriteLine(grade);
+}
 
 
+#endregion
 
+#region Join
+//Correlates the elements of two sequences based on matching keys.
+
+List<Customer> customers = new List<Customer>
+{
+	new Customer { CustomerID = 1, Name = "Alice" },
+	new Customer { CustomerID = 2, Name = "Bob" },
+	new Customer { CustomerID = 4, Name = "Dave" } // CustomerID 4 doesn't exist in orders
+};
+
+
+List<Order> orders = new List<Order>
+{
+	new Order { CustomerId = 1, OrderID = 101, Amount = 150 },
+	new Order { CustomerId = 2, OrderID = 102, Amount = 200 },
+	new Order { CustomerId = 1, OrderID = 103, Amount = 100 },
+	new Order { CustomerId = 3, OrderID = 104, Amount = 300 }
+};
+
+var OwnerOfOrder = customers.Join(
+	orders,
+	customer => customer.CustomerID,
+	order => order.CustomerId,
+	(customer, order) => new
+	{
+		CustomerName = customer.Name,
+		OrderID = order.OrderID,
+		Amount = order.Amount,
+	});
+foreach (var result in OwnerOfOrder)
+{
+	Console.WriteLine("{0} - Order ID: {1}",
+			result.CustomerName,
+			result.OrderID);
+}
+#endregion
+
+#region Contains
+//Determines whether a sequence contains a specified element by using the default equality comparer.
+foreach (var customer in customers)
+{
+	if (orders.Select(o => o.CustomerId).Contains(customer.CustomerID))
+	{ Console.WriteLine($"Customer {customer.Name} has orders."); }
+	else
+	{
+		Console.WriteLine($"Customer {customer.Name} has no orders.");
+	}
+}
+
+#endregion
+
+#region Average
+#endregion
+
+#region Select
 #endregion

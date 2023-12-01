@@ -15,4 +15,8 @@
     <ProjectReference Include="..\YetGenAkbankJump.Persistence\YetGenAkbankJump.Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\email.-templates\" />
+  </ItemGroup>
+
 </Project>
