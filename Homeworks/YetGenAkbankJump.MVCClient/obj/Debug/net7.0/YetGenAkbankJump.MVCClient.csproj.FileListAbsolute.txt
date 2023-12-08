@@ -1,0 +1,8 @@
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.csproj.AssemblyReference.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.AssemblyInfoInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.AssemblyInfo.cs
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.RazorAssemblyInfo.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient\obj\Debug\net7.0\YetGenAkbankJump.MVCClient.RazorAssemblyInfo.cs

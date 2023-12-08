@@ -1,0 +1,11 @@
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\bin\Debug\net7.0\Week_7__1.Domain.deps.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\bin\Debug\net7.0\Week_7__1.Domain.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\bin\Debug\net7.0\Week_7__1.Domain.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\Week_7__1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\Week_7__1.Domain.AssemblyInfoInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\Week_7__1.Domain.AssemblyInfo.cs
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\Week_7__1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\Week_7__1.Domain.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\refint\Week_7__1.Domain.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\Week_7__1.Domain.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week7\Core\Week_7__1.Domain\obj\Debug\net7.0\ref\Week_7__1.Domain.dll

@@ -1,0 +1,14 @@
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\bin\Debug\net7.0\YetGenAkbankJump.Shared.exe
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\bin\Debug\net7.0\YetGenAkbankJump.Shared.deps.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\bin\Debug\net7.0\YetGenAkbankJump.Shared.runtimeconfig.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\bin\Debug\net7.0\YetGenAkbankJump.Shared.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\bin\Debug\net7.0\YetGenAkbankJump.Shared.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.AssemblyInfoInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.AssemblyInfo.cs
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\refint\YetGenAkbankJump.Shared.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\YetGenAkbankJump.Shared.genruntimeconfig.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.Shared\obj\Debug\net7.0\ref\YetGenAkbankJump.Shared.dll

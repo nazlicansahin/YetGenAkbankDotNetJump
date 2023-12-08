@@ -1,0 +1,14 @@
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\bin\Debug\net7.0\YetGenAkbnakJump.Domain.exe
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\bin\Debug\net7.0\YetGenAkbnakJump.Domain.deps.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\bin\Debug\net7.0\YetGenAkbnakJump.Domain.runtimeconfig.json
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\bin\Debug\net7.0\YetGenAkbnakJump.Domain.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\bin\Debug\net7.0\YetGenAkbnakJump.Domain.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.AssemblyInfoInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.AssemblyInfo.cs
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\refint\YetGenAkbnakJump.Domain.dll
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.pdb
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\YetGenAkbnakJump.Domain.genruntimeconfig.cache
+C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbnakJump.Domain\obj\Debug\net7.0\ref\YetGenAkbnakJump.Domain.dll
