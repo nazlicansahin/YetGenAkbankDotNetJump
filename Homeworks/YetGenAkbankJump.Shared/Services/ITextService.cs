@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace YetGenAkbankJump.Shared.Services
 {
-    internal interface ITextService
+    public interface ITextService
     {
         
          void Save(string text);
