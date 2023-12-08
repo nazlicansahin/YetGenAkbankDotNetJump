@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetgenAkbankJump.Domain\\YetgenAkbankJump.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetgenAkbankJump.Domain\\YetgenAkbankJump.Domain.csproj",
+        "projectName": "YetgenAkbankJump.Domain",
+        "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetgenAkbankJump.Domain\\YetgenAkbankJump.Domain.csproj",
+        "packagesPath": "C:\\Users\\Diablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetgenAkbankJump.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj",
+        "projectName": "YetGenAkbankJump.MVCClient",
+        "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj",
+        "packagesPath": "C:\\Users\\Diablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.MVCClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetgenAkbankJump.Domain\\YetgenAkbankJump.Domain.csproj": {
+                "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetgenAkbankJump.Domain\\YetgenAkbankJump.Domain.csproj"
+              },
+              "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj": {
+                "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Betalgo.OpenAI": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj",
+        "projectName": "YetGenAkbankJump.Shared",
+        "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj",
+        "packagesPath": "C:\\Users\\Diablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\AlperTungaLessons\\YetgenAkbankJump2023-master\\YetGenAkbankJump.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

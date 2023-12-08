@@ -16,12 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\YetGenAkbankJump.MVCClient
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Diablo/Projects/YetGenAkbankDotNetJump/Homeworks/YetGenAkbankJump.MVCClient/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Diablo/Projects/YetGenAkbankDotNetJump/Homeworks/YetGenAkbankJump.MVCClient/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Diablo/Projects/YetGenAkbankDotNetJump/Homeworks/YetGenAkbankJump.MVCClient/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Diablo/Projects/YetGenAkbankDotNetJump/Homeworks/YetGenAkbankJump.MVCClient/Views/Home/SeriTarikGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJpVGFyaWtHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Diablo/Projects/YetGenAkbankDotNetJump/Homeworks/YetGenAkbankJump.MVCClient/Views/Passwords/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3dvcmRzXEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Diablo/Projects/YetGenAkbankDotNetJump/Homeworks/YetGenAkbankJump.MVCClient/Views/Passwords/Index.cshtml]

@@ -12,12 +12,41 @@ namespace YetGenAkbankJump.MVCClient.Controllers
 		{
 			_logger = logger;
 		}
+		//[HttpGet]
+		//public IActionResult Index()
+		//{
+		//    return View();
+		//}
 
-		public IActionResult Index()
+		[HttpGet]
+		public async Task<IActionResult> Index()
 		{
+
+			//var imageResult = await _openAiService.Image.CreateImage(new ImageCreateRequest
+			//{
+			//    Prompt = " Velociraptors with red ties",
+			//    N = 3,
+			//    Size = StaticValues.ImageStatics.Size.Size512,
+			//    ResponseFormat = StaticValues.ImageStatics.ResponseFormat.Url,
+			//    User = "KalayMaster"
+			//});
+
+			//List<string> urls;
+
+			//if (imageResult.Successful)
+			//{
+			//   urls = imageResult.Results.Select(r => r.Url).ToList();
+			//}
+
 			return View();
 		}
 
+		[HttpGet]
+		public IActionResult SeriTarikGetir()
+		{
+			return View();
+		}
+		[HttpGet]
 		public IActionResult Privacy()
 		{
 			return View();
@@ -29,4 +58,5 @@ namespace YetGenAkbankJump.MVCClient.Controllers
 			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
 		}
 	}
+
 }
