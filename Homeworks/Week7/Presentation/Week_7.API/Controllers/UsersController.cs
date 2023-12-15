@@ -21,5 +21,18 @@ namespace Week_7.API.Controllers
 
             return _context.Users.ToList();
         }
+        [HttpPost]
+        public void CreateUser(string firstName, string LastName) {
+
+            User user = new()
+            {
+                FirstName = "Test",
+                LastName = "Test",
+                CreatedOn = DateTime.UtcNow,
+                CreatedByUserId = "nazli"
+            };
+            _context.Users.Add(user);
+            _context.SaveChanges();
+        }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lvqx8D6SOdcnp6WeyH3VGTGxKvVGQE1tkxC4yxrxOxT2B4NQV1I3/bbG5SyLlAFUsoccA3NTFEmPUQeRg26oQw==",
+  "dgSpecHash": "t3D8xRlG26iSoTinyL5PSa3f342XEL7eVs/7G1w693vWOnxcj3LBek2OoNIZ1K8quNtptNrHriEAFr2pbw5beA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Infrastructure\\Week_7_1.Persistence\\Week_7_1.Persistence.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,8 @@
     "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"

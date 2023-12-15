@@ -16,7 +16,8 @@ namespace Week_7_1.Persistence.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseNpgsql("Server= 91.151.83.102 ;Port= 5432 ; Database= dBNazlican;User Id= yunusemresenteam;Password= *ZM44j3bgIBULDrlsyjKB595;");
         }
     }
 }
+ 
