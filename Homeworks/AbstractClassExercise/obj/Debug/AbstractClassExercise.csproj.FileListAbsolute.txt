@@ -1,0 +1,7 @@
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\bin\Debug\AbstractClassExercise.exe.config
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\bin\Debug\AbstractClassExercise.exe
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\bin\Debug\AbstractClassExercise.pdb
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\obj\Debug\AbstractClassExercise.csproj.AssemblyReference.cache
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\obj\Debug\AbstractClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\obj\Debug\AbstractClassExercise.exe
+C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\AbstractClassExercise\obj\Debug\AbstractClassExercise.pdb

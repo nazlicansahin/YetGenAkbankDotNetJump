@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kakDmKugAffbDuL6NC9Dl1QlfQFzSPjLERBev3//3uxs8TJKkYDiu3LGNVfQRTqBFKZQWUAmBs2l9gNEmunODw==",
+  "dgSpecHash": "SLad4mXF3AtCFHjFGTKLd0R2KKGkoj0O8BZWSJiehja/Px3JU7wsME5nA3ei7e8Ox5SY68yLmAvjQ4CtnjG2dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Presentation\\Week_7.API\\Week_7.API.csproj",
+  "projectFilePath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Presentation\\Week_7.API\\Week_7.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
@@ -25,7 +25,11 @@
     "C:\\Users\\Diablo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Diablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Diablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

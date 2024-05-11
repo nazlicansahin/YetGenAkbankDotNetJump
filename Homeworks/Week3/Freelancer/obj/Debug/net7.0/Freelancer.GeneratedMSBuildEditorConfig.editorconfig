@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Freelancer
-build_property.ProjectDir = C:\Users\Diablo\Projects\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\
+build_property.ProjectDir = C:\Users\Diablo\Source\Repos\YetGenAkbankDotNetJump\Homeworks\Week3\Freelancer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

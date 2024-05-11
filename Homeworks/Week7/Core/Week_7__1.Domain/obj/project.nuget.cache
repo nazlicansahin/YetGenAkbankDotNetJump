@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Yyqh3DI2TctHBeEzG4WVir58768aaD2iAQpwbxAfFmjS+P9M3n8/BzPgRW0sfJnKN4bOi4Gr1fqZMA9ar9PjeA==",
+  "dgSpecHash": "ULCKFAnOMLAP47ynVgKFrAdjEnIoRZ6y9TwCSA3Xqy46Qd+fJEfGCTgTQZD7u/Y/7SHZr2w8k1m7ok/22Yvj0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Core\\Week_7__1.Domain\\Week_7__1.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Core\\Week_7__1.Domain\\Week_7__1.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3D8xRlG26iSoTinyL5PSa3f342XEL7eVs/7G1w693vWOnxcj3LBek2OoNIZ1K8quNtptNrHriEAFr2pbw5beA==",
+  "dgSpecHash": "GZhTSgrsvATfgWfvLZD9nBzOfbU+cDYBXYmrCcj+3RVPbHIfUjfj+4BdMXvgyBHZfzSx6nBaRfgCx0l/mSRuoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Infrastructure\\Week_7_1.Persistence\\Week_7_1.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\Week7\\Infrastructure\\Week_7_1.Persistence\\Week_7_1.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diablo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
@@ -26,7 +26,10 @@
     "C:\\Users\\Diablo\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Diablo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Diablo\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

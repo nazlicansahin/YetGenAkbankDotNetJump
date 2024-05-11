@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "k5mBXAooIPZUjUBDMnbZ9GcJaXCIoG/oTlGxogvwTLSmLYlwkTFYlZXCqOdXgaY/vgoEwf4QxHwLudlxg8KThg==",
+  "dgSpecHash": "rnfLgtrkUSPa39SLsr0aE25E5m6caZonx+A1187zRUZbKt8PGiI4QSt9oO1/8wWPPrU2n9OyLdRwVXOAatCYvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\Week4\\LinqMethods\\LinqMethods.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\Week4\\LinqMethods\\LinqMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

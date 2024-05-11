@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FzMjirgsVTzXPif8Y8E75CWFHbXamuiMIMA0UTLHKjfRYbqwg7/OyYpybQlVL51FxVa5WUV2OuntUDJFwLSdSw==",
+  "dgSpecHash": "QdbcCm16X81QAVzt6f2EbaVg0nyJtZKLYDuqqgV6kApVQVOPQaeo5W/28sDL5Fj3EmvGYY0qYR04F27yJYbhSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\Week3\\Freelancer\\Freelancer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\Week3\\Freelancer\\Freelancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

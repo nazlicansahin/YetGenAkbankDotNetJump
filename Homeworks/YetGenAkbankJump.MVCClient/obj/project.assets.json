@@ -555,11 +555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj",
+      "projectUniqueName": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj",
       "projectName": "YetGenAkbankJump.MVCClient",
-      "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj",
+      "projectPath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.MVCClient\\YetGenAkbankJump.MVCClient.csproj",
       "packagesPath": "C:\\Users\\Diablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.MVCClient\\obj\\",
+      "outputPath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.MVCClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -576,11 +576,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj": {
-              "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj"
+            "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj": {
+              "projectPath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj"
             },
-            "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbnakJump.Domain\\YetGenAkbnakJump.Domain.csproj": {
-              "projectPath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbnakJump.Domain\\YetGenAkbnakJump.Domain.csproj"
+            "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbnakJump.Domain\\YetGenAkbnakJump.Domain.csproj": {
+              "projectPath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbnakJump.Domain\\YetGenAkbnakJump.Domain.csproj"
             }
           }
         }
@@ -589,6 +589,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -611,6 +614,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -619,7 +640,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

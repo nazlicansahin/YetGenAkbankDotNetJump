@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TttJK/QmjrTgEXkBQ+8OqtRKiexWtHfo2r6dhXl49xyrZJf/KXrJpP/9w7OTNm8hazhyNBo/ItvUbwSUFZJyHw==",
+  "dgSpecHash": "nswu8ntml4jhc5U4ujr87VKRUWRtUcCqls//iz2E9bJISNKX9Ddj6J9K/YhJGJerRX7sz4PoM9/QEMmzDYiaGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diablo\\Projects\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Diablo\\Source\\Repos\\YetGenAkbankDotNetJump\\Homeworks\\YetGenAkbankJump.Shared\\YetGenAkbankJump.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
